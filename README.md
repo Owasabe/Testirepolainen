@@ -1,2 +1,2 @@
 # Testirepolainen
-Kouluprojektia varten, testausrepo.
+Pelikehitys kurssin peliprojektia varten luotu repo. Toivottavasti toimii...
